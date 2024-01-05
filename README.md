@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @EA-DEV-RKS
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m not looking to collaborate
-- 📫 How to reach me - ig- @hayy_rks
+- 👋 Hi, I’m Rks
 
 <!---
 EA-DEV-RKS/EA-DEV-RKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
